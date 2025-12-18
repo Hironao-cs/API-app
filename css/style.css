@@ -1,0 +1,47 @@
+
+#dog-image{
+    width: 300px; 
+    min-height: 200px; 
+    display: block; 
+    margin: 20px 0;
+}
+
+h1{
+    text-align: center;
+    font-size: 64px;
+    font-style: bold;
+    background-color: #DEB887;
+    color: beige;
+    margin: 20px 0;
+}
+#btn{
+    display: block;
+    background-color: bisque;
+    border: solid;
+    height: 32px;
+    width: 300px;
+    margin: auto;
+}
+
+#btn:hover{
+    margin-top: 3px;
+    color: white;
+    background: #7b702e;
+}
+
+
+h2{
+    text-align: center;
+    font-size: 48px;
+    background-color: #DEB887;
+    color: black;
+    margin: 20px 0;
+}
+
+#dog-image{
+    width: 300px;
+    min-height: 200px;
+    display: block;
+    margin: auto;
+    display: block;
+}
