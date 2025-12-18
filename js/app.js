@@ -106,7 +106,7 @@ $(document).ready(async function() {
     //データ取得
    const fetchDog = async () =>{
     try {
-        const url = `https://dog.ceo/api/breeds/image/random`;
+        const url = ``;
         const res = await fetch(url);
         const data= await res.json();
         // 1. 画像URLを取得
